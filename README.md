@@ -10,4 +10,6 @@ El software permite la interacción con el usuario a través de un menú de opci
   6 - Top 10 Libros descargados de la API.
 
   Para el proyecto se utilizarón muchos conceptos como listas,objetos,consumo de Api, deserialización, JPQL, native queries, relaciones, métodos, stream(), switch, constructores,  entre otros.
+  ![image](https://github.com/DanielMxGD/ChallengeLiterAluraDGD/assets/141875962/829445df-0ae0-46b8-85c8-794cb4b1c919)
+
 
