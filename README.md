@@ -13,12 +13,16 @@ El software permite la interacción con el usuario a través de un menú de opci
 
 
   Menú de Opciones
+
+  
   ![image](https://github.com/DanielMxGD/ChallengeLiterAluraDGD/assets/141875962/829445df-0ae0-46b8-85c8-794cb4b1c919)
 
 
 
 
   Lista de Libros
+
+  
   ![image](https://github.com/DanielMxGD/ChallengeLiterAluraDGD/assets/141875962/f34f9ab5-c420-456e-ab3b-308b50298dce)
 
 
