@@ -9,6 +9,5 @@ El software permite la interacción con el usuario a través de un menú de opci
   5 - Encontrar libros por idioma (de la BD)
   6 - Top 10 Libros descargados de la API.
 
-  Para el proyecto se utilizarón muchos conceptos como listas,objetos,consumo de Api, deserialización, JPQL, native queries, relaciones, métodos, stream(), switch, constructos,  
-  entre otros.
+  Para el proyecto se utilizarón muchos conceptos como listas,objetos,consumo de Api, deserialización, JPQL, native queries, relaciones, métodos, stream(), switch, constructores,  entre otros.
 
